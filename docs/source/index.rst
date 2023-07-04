@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+5LSM0 - Neural Networks for Computer Vision 
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
